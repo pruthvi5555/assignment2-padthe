@@ -33,7 +33,7 @@ This is my second assignment on markdown
 
 ---
 
-# List of Places i suggest to visit in india :-
+# List of places I suggest to visit in India 
 
 
 India is the land known for its rich heritage and culture. Pune is known as Queen of India. Mumbai is known as the Business Capital of India. Jaipur is known as Pink City of India. Banglore is known as the pink city of India.
