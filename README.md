@@ -20,3 +20,11 @@ This is my second assignment on markdown
     6. Fold the Dosa
 1. Your Dosa is Ready
 1. Start the Next Dosa
+
+# Items required for making Dosa
+  * 3 cups white rice
+  * 1 cup urad daal
+    * 3/4 teaspoon fenugreek seeds
+    * 2 3/4 cups water (plus more for soaking)
+    * 1/4 teaspoon salt
+* Ghee (or vegetable, canola, or sunflower oil)
