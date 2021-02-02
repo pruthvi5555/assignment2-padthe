@@ -44,5 +44,13 @@ India is the land known for its rich heritage and culture. Pune is known as Quee
  | Pune      |                  48                       | $250 |
  | Mumbai    |                  36                       | $200 |
  | Jaipur    |                  48                       | $300 |
- | Banglore  |                  36                       | $175 |  
+ | Banglore  |                  36                       | $175 | 
+
+ ---
+
+ # Favourite Quote
+
+ 1. **Work untill you no longer have to introduce yourself** - *Harvy Spector* 
+ 1. **Man needs difficulties in life because they are necessary to enjoy the sucess** - *Abdul Kalam*
+
 
