@@ -39,10 +39,10 @@ This is my second assignment on markdown
 India is the land known for its rich heritage and culture. Pune is known as Queen of India. Mumbai is known as the Business Capital of India. Jaipur is known as Pink City of India. Banglore is known as the pink city of India.
 
 
- |Location|          |NO.of hours that a visitor should spend|     |cost of trip|
- |  ----  |          |                ----                   |     |   ----     |
- |Pune    |          |                 48                    |     |    $250    |
- |Mumbai  |          |                 36                    |     |    $200    |
- |Jaipur  |          |                 48                    |     |    $300    |
- |Banglore|          |                 36                    |     |    $175    |  
+ | Location | NO.of hours that a visitor should spend | Cost of trip |
+ |  ---    |                  ---                      | --- |
+ | Pune      |                  48                       | $250 |
+ | Mumbai    |                  36                       | $200 |
+ | Jaipur    |                  48                       | $300 |
+ | Banglore  |                  36                       | $175 |  
 
