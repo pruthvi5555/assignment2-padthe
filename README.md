@@ -46,10 +46,10 @@ India is the land known for its rich heritage and culture. Pune is known as Quee
  | Jaipur    |                  48                       | $300 |
  | Banglore  |                  36                       | $175 | 
 
-[clickheretoviewpunepicture] (pune.jpg)
-[clickheretoviewMumbaipicture] (mumbai.jpg)
-[clickheretoviewJaipurpicture] (jaipur.jpg)
-[clickheretoviewBanglorepicture] (banglore.jpg)
+![clickheretoviewpunepicture] (pune.jpg)
+![clickheretoviewMumbaipicture] (mumbai.jpg)
+![clickheretoviewJaipurpicture] (jaipur.jpg)
+![clickheretoviewBanglorepicture] (banglore.jpg)
  ---
 
  # Favourite Quote
