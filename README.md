@@ -101,8 +101,8 @@ India is the land known for its rich heritage and culture. Pune is known as Quee
 
  # Favourite Quote
 
- 1. **Work untill you no longer have to introduce yourself** - *Harvy Spector* 
- 1. **Man needs difficulties in life because they are necessary to enjoy the sucess** - *Abdul Kalam*
+ >  Work untill you no longer have to introduce yourself - *Harvy Spector* 
+ > Man needs difficulties in life because they are necessary to enjoy the sucess - *Abdul Kalam*
 
  ---
 
