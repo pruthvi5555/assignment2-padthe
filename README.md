@@ -21,6 +21,30 @@ This is my second assignment on markdown
 1. Your Dosa is Ready
 1. Start the Next Dosa
 
+### SOUTHINDIANDOSA
+![clickheretoviewthepictureofsouthindiandosa](southindiandosa.jpg)
+
+### GREASING OILING
+![clickheretoviewthepictureofgreasingoil](greasethepan.jpg)
+
+### POURING BATTER
+![clickheretoviewthepictureofaddthebatter](pourbatter.jpg)
+
+### DRIZZLING WITH OIL
+![clickheretoviewthepictureofdrizzlewithoil](drizzlewithoil.jpg)
+
+### FLIPING DOSA
+![clickheretoviewthepictureofflippingdosa](flipdosa.jpg)
+
+### FLODING DOSA
+![clickheretoviewthepictureoffoldingdosa](folddosa.jpg)
+
+### PICTURE OF DOSA
+![clickheretoviewthepictureofdosa](dosa.jpg)
+
+###  PICTURE TO START NEW DOSA
+![clickheretoviewthepictureofstartingnextdosa](nextone.jpg)
+
 # Items required for making Dosa
   * 3 cups white rice
   * 1 cup urad daal
