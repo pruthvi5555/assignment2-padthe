@@ -53,6 +53,23 @@ This is my second assignment on markdown
     * 1/4 teaspoon salt
 * Ghee (or vegetable, canola, or sunflower oil)
 
+### THREE CUPS OF RICE
+![clickheretoviewthreecupsofrice](threecupsofwhiterice.jpg)
+
+### ONE CUP OF URAD DAL
+![clickheretoviewonecupofuraddaal](uraddal.jpg)
+
+### FENU GREEK SEED
+![clickheretoviewfenugreekseed](fenugram.jpg)
+
+### SALT
+![clickheretoviewsalt](salt.jpg)
+
+### GHEE
+![clickheretoviewghee](ghee.jpg)
+
+
+
 [click here](AboutMe.md)
 
 ---
